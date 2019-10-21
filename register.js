@@ -1,0 +1,1 @@
+console.log('注册的js')
